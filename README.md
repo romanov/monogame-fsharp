@@ -1,5 +1,11 @@
 # monogame-fsharp
-F# pure template for creating games with MonoGame
+F# pure template for creating games with MonoGame (.NET CORE, .NET 5)
+
+### Quick Start (Visual Studio 2019)
+1. Install F# desktop language support for Visual Studio 2019 (individual components tab)
+2. Clone this repo and open it
+3. Check and update references for nuget MonoGame.Framework.WindowsDX
+Don't forget to run as a desktop app
 
 ### Quick Start (Visual Studio 2017)
 1. Install F# tools for Visual Studio 2017
