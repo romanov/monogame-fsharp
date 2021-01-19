@@ -1,3 +1,5 @@
+![logo](https://i.ibb.co/TRDnJn2/simple-logo.png)
+
 # MonoGame project template in F#
 Write your games in F# powered by MonoGame (.NET CORE, .NET 5)
 
@@ -10,8 +12,6 @@ Write your games in F# powered by MonoGame (.NET CORE, .NET 5)
 3. Check and update references for nuget MonoGame.Framework.WindowsDX
 
 Don't forget to run as a desktop app (Project -> [Project] Properties):
-![settings](https://i.ibb.co/wRRxGGZ/runas.jpg)
-
 
 ### Quick Start (manual, Visual Studio 2017)
 1. Install F# tools for Visual Studio 2017
@@ -23,7 +23,7 @@ Don't forget to run as a desktop app (Project -> [Project] Properties):
 2. Clone this repo and open it
 3. Check and update MonoGame references 
 
-### Content folder management (Visual Studio 2015)
+#### Content folder management in Visual Studio 2015
 Install [Visual F# Power Tools](https://visualstudiogallery.msdn.microsoft.com/136b942e-9f2c-4c0b-8bac-86d774189cff)
 and enable Folder Organization:
 
