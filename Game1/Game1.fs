@@ -12,8 +12,9 @@ type Game1 () as x =
     let mutable spriteBatch = Unchecked.defaultof<SpriteBatch>
 
     override x.Initialize() =
-        do spriteBatch <- new SpriteBatch(x.GraphicsDevice)
-        do base.Initialize()
+    
+        spriteBatch <- new SpriteBatch(x.GraphicsDevice)
+        base.Initialize()
          
          // TODO: Add your initialization logic here
 
@@ -37,7 +38,7 @@ type Game1 () as x =
  
     override this.Draw (gameTime) =
 
-        do x.GraphicsDevice.Clear Color.CornflowerBlue
+        x.GraphicsDevice.Clear Color.CornflowerBlue
         
         // TODO: Add your drawing code here
 
