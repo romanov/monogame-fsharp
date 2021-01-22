@@ -21,7 +21,7 @@ type Game1 () as x =
 
     override this.LoadContent() =
         
-         // TODO: use this.Content to load your game content here   
+         // TODO: use x.Content to load your game content here   
          // On Windows you can load any PNG file directly as Texture2D
 
          // Read more about MonoGame's Content Pipeline: https://docs.monogame.net/articles/tools/mgcb_editor.html
