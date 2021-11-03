@@ -1,9 +1,12 @@
 ![logo](https://i.ibb.co/TRDnJn2/simple-logo.png)
 
 # MonoGame project template in F#
-Write your games in F# powered by MonoGame (.NET CORE, .NET 5)
+Write your games in F# powered by MonoGame (.NET CORE, .NET 5, .NET 6)
 
-### Installation (VSIX Template, Visual Studio 2019)
+### Download the project (Visual Studio 2022)
+[Download project for Visual Studio 2022](https://github.com/romanov/monogame-fsharp/releases/download/vs2022/Game1.zip)
+
+### Install (VSIX Template, Visual Studio 2019)
 [Download VSIX extension](https://github.com/romanov/monogame-fsharp/releases/download/vsix1/MonoGame_FSharp.vsix) and run it
 
 ### Quick Start (manual, Visual Studio 2019)
