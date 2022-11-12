@@ -1,7 +1,8 @@
 ![logo](https://i.ibb.co/TRDnJn2/simple-logo.png)
 
 # MonoGame project template in F#
-Write your games in F# powered by MonoGame (.NET CORE, .NET 5, .NET 6)
+Write your games in F# powered by MonoGame (.NET CORE, .NET 5, .NET 6, .NET 7)
+Tested on Windows, MAC (Rider & VS2022)
 
 ### Download the project (Visual Studio 2022)
 [Download project for Visual Studio 2022](https://github.com/romanov/monogame-fsharp/releases/download/vs2022/Game1.zip)
