@@ -42,4 +42,7 @@ type Game1 () as x =
         
         // TODO: Add your drawing code here
 
+
+        base.Draw(gameTime)
+
         ()
