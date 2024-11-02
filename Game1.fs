@@ -33,6 +33,8 @@ type Game1 () as x =
     override this.Update (gameTime) =
 
          // TODO: Add your update logic here
+
+        base.Update(gameTime)
         
         ()
  
