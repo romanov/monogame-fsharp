@@ -9,6 +9,9 @@ Clone the project via git and run `dotnet run`:
 
 `https://github.com/romanov/monogame-fsharp.git`
 
+<img width="1906" height="1189" alt="image" src="https://github.com/user-attachments/assets/4a684179-d4c6-474a-b474-2f5027749e65" />
+
+
 
 
 ### Download the project (Visual Studio 2022)
