@@ -1,10 +1,12 @@
 ![logo](https://i.ibb.co/TRDnJn2/simple-logo.png)
 
 # MonoGame project template in F#
-Write your games in F# powered by MonoGame (.NET CORE, .NET 5, .NET 6, 7, 8)
+Write your games in F# powered by MonoGame (.NET 10)
+
 Tested on Windows 11, MAC OS Tahoe 26, Elementary OS 8.1
 
 Clone the project via git and run `dotnet run`:
+
 `https://github.com/romanov/monogame-fsharp.git`
 
 
